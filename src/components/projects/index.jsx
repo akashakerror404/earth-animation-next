@@ -6,35 +6,31 @@ import Descriptions from './descriptions';
 
 const data = [
     {
-        title: "Ford",
-        description: "Working on the Next-Generation HMI Experience without no driving experience.",
+        title: "AKASH",
+        description: "Building next-generation HMI experiences, redefining user interaction in automotive interfaces.",
         speed: 0.5
     },
     {
-        title: "UFC",
-        description: "Developed the Future of UFC Sports Ecosystem despite not being a sports fan.",
+        title: "AK",
+        description: "Engineering innovative solutions for the UFC sports ecosystem, enhancing fan engagement and experience.",
         speed: 0.5
     },
     {
-        title: "Lincoln",
-        description: "Defined the visual concept and design language for the Lincoln Zephyr 2022 but never seen it in real life.",
+        title: "PYTHON",
+        description: "Creating efficient and scalable applications with Python, optimizing performance and automation.",
         speed: 0.67
     },
     {
-        title: "Royal Caribbean",
-        description: "I was just one person on a massive team that created an entire Royal Caribbean eco-system.",
+        title: "FULLSTACK",
+        description: "Developing robust and scalable web applications, managing both frontend and backend seamlessly.",
         speed: 0.8
     },
     {
-        title: "Sleepiq",
-        description: "Designed a 1M+ users product utilizing my best personal experience: sleeping.",
+        title: "DEVELOPER",
+        description: "Designing and building high-performance products, focusing on user experience and cutting-edge technology.",
         speed: 0.8
     },
-    {
-        title: "NFL",
-        description: "Explored the Future of Fantasy Football while being in a country where football means a total different sport.",
-        speed: 0.8
-    }
+    
 ]
 
 export default function Projects() {
